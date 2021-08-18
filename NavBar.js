@@ -4,7 +4,7 @@ export const NavBar = () => {
     return (
         <nav>
             <div>
-			<img style={{height: 100}} src="img/genovapng.png"/>
+			<img style={{height: 100}} src="/genovapng.png"/>
 		    </div>
             <ul>
                 <li>
